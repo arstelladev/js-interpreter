@@ -1,0 +1,13 @@
+{
+  "scripts": { "test": "jasmine" },
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "ts-node": "^10.9.1",
+    "tslib": "^2.6.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "acorn": "^8.10.0",
+    "acorn-walk": "^8.2.0"
+  }
+}
